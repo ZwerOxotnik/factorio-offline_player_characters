@@ -1,0 +1,15 @@
+{
+    "name": "offline_player_characters",
+    "version": "0.1.0",
+    "factorio_version": "2.0",
+    "title": "Offline player characters [WARNING: not tested!]",
+    "author": "ZwerOxotnik",
+    "contact": "zweroxotnik@gmail.com, Discord:ZwerOxotnik",
+    "source": "",
+    "homepage": "https://www.reddit.com/r/ZwerOxotnik/",
+    "description": "Player characters don't dissapear after disconnection.\nUse it only in multiplayer!",
+    "dependencies": [
+        "? zk-lib >= 0.10.0",
+        "? gvv"
+    ]
+}
